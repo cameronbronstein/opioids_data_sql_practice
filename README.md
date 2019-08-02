@@ -1,4 +1,5 @@
-# PostgreSQL and PsycoPG2 - SF Flex Lesson
+# PostgreSQL and PsycoPG2
+## General Assembly - Data Science Immersive 8
 **Author**: Cameron Bronstein
 
 This is an intermediate introduction to SQL querying language using the `psycopg2` python wrapper/ API.
@@ -13,10 +14,10 @@ This is an intermediate introduction to SQL querying language using the `psycopg
 
 #### Dependencies
 - `psycopg2`: [version 2.7.7](http://initd.org/psycopg/docs/install.html#binary-install-from-pypi)
-- `postgreSQL`: [version 11.x](https://postgresapp.com/)
+- `postgreSQL`: [version 11.x](https://postgresapp.com/) for Mac OSX only
 
 ## Data
-The data comes from the DEA and [Washington Post](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/?utm_term=.975ecc525b4b). Thanks to Mikhail for sharing this data release with me!
+The data comes from the DEA and [Washington Post](https://www.washingtonpost.com/graphics/2019/investigations/dea-pain-pill-database/?utm_term=.975ecc525b4b).
 
-Data was cleaned and cut down for the purposes of this lesson. The cleaned data can be downloaded from [Google drive](https://drive.google.com/file/d/1PfOe6ERFgo1tJi_MkVePiJ2lOyBPON0c/view?usp=sharing), or the raw data can be passed through the **data cleaning** notebook.
+Data was cleaned and cut down for the purposes of this lesson. The cleaned data can be downloaded from [Google drive](https://drive.google.com/file/d/1PfOe6ERFgo1tJi_MkVePiJ2lOyBPON0c/view?usp=sharing), or the raw data can be downloaded from WP and passed through the **data cleaning** notebook.
 
