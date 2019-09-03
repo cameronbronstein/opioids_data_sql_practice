@@ -9,8 +9,8 @@ This is an intermediate introduction to SQL querying language using the `psycopg
 - Understanding relational database structure/ why to store data in different tables
 - Understanding how to query data from multiple tables
 - Understanding use cases for Pandas vs. other more efficient methods (Data Science vs. Data Engineering)
-- Think about how databases are used in the structure of most web pages.
-- Think about some PostgreSQL command line tools for structuring/ quering data in an efficient way.
+- Think about how databases are used in the structure of many web pages.
+- Understanding PostgreSQL command line tools for structuring/ quering data in an efficient way.
 
 #### Dependencies
 - `psycopg2`: [version 2.7.7](http://initd.org/psycopg/docs/install.html#binary-install-from-pypi)
